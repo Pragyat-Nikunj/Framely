@@ -73,15 +73,15 @@ Framely is a blazing-fast media processing platform to upload, preview, and tran
 
 ### Video Upload
 
-<img src="screenshots/video-upload.png" alt="Video Upload" width="100%" />
+<img src="./screenshots/video-upload.png" alt="Video Upload" width="100%" />
 
 ### Social Share Image Creator
 
-<img src="screenshots/social-share.png" alt="Social Share" width="100%" />
+<img src="./screenshots/social-share.png" alt="Social Share" width="100%" />
 
 ### Home - Video Gallery
 
-<img src="screenshots/home.png" alt="Home Gallery" width="100%" />
+<img src="./screenshots/home.png" alt="Home Gallery" width="100%" />
 
 ---
 
