@@ -5,12 +5,15 @@
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-Image%20Hosting-blue?logo=cloudinary)](https://cloudinary.com/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
+
+
 Framely is a blazing-fast media processing platform to upload, preview, and transform images/videos — built for creators, marketers, and developers.
 
 ---
 
 ## 🚀 Table of Contents
 
+- [Live Demo](#live-demo)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Screenshots](#screenshots)
@@ -18,6 +21,13 @@ Framely is a blazing-fast media processing platform to upload, preview, and tran
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+---
+
+## 🌐 Live Demo
+
+Try the app here:  
+🔗 [framely.vercel.app](https://framely-mmsi23r7p-pragyat-nikunjs-projects.vercel.app/)
 
 ---
 
@@ -117,6 +127,29 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+---
+
+## 🚀 Deployment
+
+Framely is production-ready and can be deployed seamlessly on [Vercel](https://vercel.com/).
+
+**To deploy your own instance:**
+
+1. **Push this repository to GitHub:**  
+   Fork or clone and push your code to your GitHub account.
+
+2. **Connect your GitHub repo to Vercel:**  
+   Go to [vercel.com/import](https://vercel.com/import) and select your Framely repository.
+
+3. **Add environment variables:**  
+   Configure all required environment variables in the Vercel dashboard (`.env.local` values).
+
+4. **Deploy:**  
+   Click deploy and your Framely instance will be live in minutes! 🎉
+
+> **Tip:**  
+> You can use the provided [Live Demo](#live-demo) as a reference for your deployment.
 
 ---
 
