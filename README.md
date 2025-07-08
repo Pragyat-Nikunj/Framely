@@ -1,5 +1,5 @@
 # Framely
-
+![Deployed on Vercel](https://img.shields.io/badge/Deployed-Vercel-000?logo=vercel)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-14-blue?logo=next.js)](https://nextjs.org/)
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-Image%20Hosting-blue?logo=cloudinary)](https://cloudinary.com/)
